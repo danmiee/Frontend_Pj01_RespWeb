@@ -1,0 +1,14 @@
+header {
+    background-color: #d6ceb5;
+    font-family: 'Nanum Pen Script', cursive;
+    padding: 10px;
+}
+
+header div {
+    padding: 10px;
+}
+
+.header_left {
+    font-size: 2rem;
+    font-weight: bold;
+}
