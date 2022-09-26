@@ -10,6 +10,8 @@ header div {
 .header_left {
     font-size: 30px;
     font-weight: bold;
+    width: 30%;
+    text-align: center;
 }
 .header_right {
     font-size: 20px;
